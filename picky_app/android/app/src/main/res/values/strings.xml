@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">picky</string>
+    <string name="title_activity_main">picky</string>
+    <string name="package_name">com.hiu.picky</string>
+    <string name="custom_url_scheme">com.hiu.picky</string>
+</resources>
